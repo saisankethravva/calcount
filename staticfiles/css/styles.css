@@ -1,0 +1,25 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 90px; /* bottom = footer height */
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 90px;
+    width: 100%;
+}
+
+.card-img-custom {
+    width: 100%; /* Ensure the image fills the card width */
+    height: 250px; /* Set a fixed height for consistency */
+    object-fit: cover; /* Ensures the image is cropped while maintaining aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners for aesthetics */
+    display: block; /* Ensure the image is treated as a block element */
+}
