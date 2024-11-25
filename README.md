@@ -1,4 +1,4 @@
-![Screenshot 2024-11-25 at 12 44 07 AM](https://github.com/user-attachments/assets/76040dce-fa03-484e-9d80-e37fc644a039)# Calorie Tracker
+# Calorie Tracker
 
 
 ## Problem Statement
@@ -147,7 +147,8 @@ I implemented this project to address the growing concern of obesity and the nee
 
 ### Food List
 
-![Screenshot 2024-11-25 at 12 40 48 AM](https://github.com/user-attachments/assets/d1daaeb2-11ba-479d-8fc8-85ac1ae65a26)
+![image](https://github.com/user-attachments/assets/0a8a8120-72c1-43b2-af40-9c563e976735)
+
 
 ### Food Details
 
@@ -159,7 +160,8 @@ I implemented this project to address the growing concern of obesity and the nee
 
 ### Food Log
 
-![Screenshot 2024-11-25 at 12 42 04 AM](https://github.com/user-attachments/assets/22cb9b4b-b4ad-4387-8481-a71543930515)
+![Screenshot 2024-11-25 at 12 42 24 AM](https://github.com/user-attachments/assets/45e40c00-0d75-49c5-a244-94ecffcba275)
+
 
 ### Weight Log
 
