@@ -1,9 +1,10 @@
-# Calorie Tracker
+![Screenshot 2024-11-25 at 12 44 07 AM](https://github.com/user-attachments/assets/76040dce-fa03-484e-9d80-e37fc644a039)# Calorie Tracker
 
 
 ## Problem Statement
-Obesity is a common and serious disease which is raising day by day and needs to be addressed. Keeping a healthy Lifestyle and Good Exercise Regime helps control it.
-In addition to having good exercise regime, one needs to eat a well balanced healthy meal. This brings forward a requirement for a defined method to track a person's diet and calorie intake. We plan to address this by designing a calorie and nutrient tracking application.
+Obesity is a growing and serious public health concern that continues to rise globally, necessitating immediate attention. Maintaining a healthy lifestyle, including a balanced diet and regular exercise, is crucial in managing and preventing obesity. While a good exercise regimen is essential, equally important is the need for a well-balanced, nutrient-rich meal plan to support overall health and wellness.
+
+To address this pressing need, I developed a Calorie Tracker application designed to help individuals take control of their dietary habits and make informed decisions about their nutrition. This application empowers users to track their daily calorie intake and nutrient consumption with precision, enabling them to maintain a healthy lifestyle.
 
 ## Solution Proposed
 Calorie Tracker is an application that provides users the features to track daily calorie intake and provide nutritional information on macro nutrients such as fat, carbohydrates, protein for the food item consumed by the user. User’s can also monitor their weight by logging their weights in the application which can be visualized from a graph, and it also provides nutrition facts for a range of food items which empowers the user's to plan their diet and reach their fitness goals. 
@@ -135,3 +136,45 @@ I implemented this project to address the growing concern of obesity and the nee
 1. The current image recognition system may struggle to identify complex dishes or multiple items in a single image.
 2. Users must manually log their meals and weights, which may lead to inconsistent tracking.
 3. The food database might initially lack information on certain cuisines or regional foods, limiting its utility for some users.
+
+
+## Images of Application
+
+
+### Login
+
+![Screenshot 2024-11-25 at 12 44 07 AM](https://github.com/user-attachments/assets/5a629946-50cc-4951-b5e4-a7745996e1f5)
+
+### Food List
+
+![Screenshot 2024-11-25 at 12 40 48 AM](https://github.com/user-attachments/assets/d1daaeb2-11ba-479d-8fc8-85ac1ae65a26)
+
+### Food Details
+
+![Screenshot 2024-11-25 at 12 41 48 AM](https://github.com/user-attachments/assets/ef803459-f7ba-45e5-a643-cc82fc013116)
+
+### Category
+
+![Screenshot 2024-11-25 at 12 42 04 AM](https://github.com/user-attachments/assets/a0b5d249-17df-438c-9353-8c76799b5862)
+
+### Food Log
+
+![Screenshot 2024-11-25 at 12 42 04 AM](https://github.com/user-attachments/assets/22cb9b4b-b4ad-4387-8481-a71543930515)
+
+### Weight Log
+
+![Screenshot 2024-11-25 at 12 42 42 AM](https://github.com/user-attachments/assets/b7fd5662-2e6f-421f-8e41-b0fe135cbdb9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
