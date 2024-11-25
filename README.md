@@ -6,7 +6,7 @@ Obesity is a common and serious disease which is raising day by day and needs to
 In addition to having good exercise regime, one needs to eat a well balanced healthy meal. This brings forward a requirement for a defined method to track a person's diet and calorie intake. We plan to address this by designing a calorie and nutrient tracking application.
 
 ## Solution Proposed
-CalCount is an application that provides users the features to track daily calorie intake and provide nutritional information on macro nutrients such as fat, carbohydrates, protein for the food item consumed by the user. User’s can also monitor their weight by logging their weights in the application which can be visualized from a graph, and it also provides nutrition facts for a range of food items which empowers the user's to plan their diet and reach their fitness goals. 
+Calorie Tracker is an application that provides users the features to track daily calorie intake and provide nutritional information on macro nutrients such as fat, carbohydrates, protein for the food item consumed by the user. User’s can also monitor their weight by logging their weights in the application which can be visualized from a graph, and it also provides nutrition facts for a range of food items which empowers the user's to plan their diet and reach their fitness goals. 
 
 ## Application Features
 * Users can register and login using application custom login or through Amazon Cognito
